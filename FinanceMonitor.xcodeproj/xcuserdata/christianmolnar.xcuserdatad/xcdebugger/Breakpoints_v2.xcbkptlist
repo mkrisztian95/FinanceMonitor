@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B423A8DE-2219-42D1-AEEC-BEDB5E6FAEFD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A40CD117-88A1-4504-95F5-08F1CE390821"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinanceMonitor/Core/UseCases/GetTransactionsUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "transactionsPublisher"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "A40CD117-88A1-4504-95F5-08F1CE390821 - 1003e3248f06493f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinanceMonitor.GetTransactionsUseCase.transactionsPublisher.getter : Combine.AnyPublisher&lt;FinanceMonitor.TransactionModel, Swift.Never&gt;"
+                  moduleName = "FinanceMonitor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christianmolnar/Documents/Work/Projects_Personal/FinanceMonitor/FinanceMonitor/Core/UseCases/GetTransactionsUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "A40CD117-88A1-4504-95F5-08F1CE390821 - c2997b9592b18e98"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FinanceMonitor.TransactionModel&gt;, Swift.Array&lt;FinanceMonitor.TransactionEntity.TransactionCategory&gt;) -&gt; Swift.Optional&lt;FinanceMonitor.TransactionModel&gt; in FinanceMonitor.GetTransactionsUseCase.transactionsPublisher.getter : Combine.AnyPublisher&lt;FinanceMonitor.TransactionModel, Swift.Never&gt;"
+                  moduleName = "FinanceMonitor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christianmolnar/Documents/Work/Projects_Personal/FinanceMonitor/FinanceMonitor/Core/UseCases/GetTransactionsUseCase.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88928D25-1503-4D10-9A39-DEEBBD9C74B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinanceMonitor/Core/UseCases/GetTransactionsUseCase.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "fetchTransactions()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87C0D7C4-ED8B-4F02-B589-C60BBF84F5A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinanceMonitor/Core/Services/BaseNetworking/NetworkingService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "request(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
